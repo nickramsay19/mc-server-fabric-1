@@ -16,6 +16,8 @@
 	10. https://www.curseforge.com/minecraft/mc-mods/fabric-api/download
 	11. https://www.curseforge.com/minecraft/mc-mods/fabric-waystones/download
 	12. https://www.curseforge.com/minecraft/mc-mods/bclib/download/4027861
+	13. https://www.curseforge.com/minecraft/mc-mods/cloth-api/download/3853858
+	14. https://www.curseforge.com/minecraft/mc-mods/data-attributes/download/3955434
 4. Move the downloaded '.jar' files into your minecraft mods folder.
 5. Run Minecraft with the new Fabric 1.19.2 profile.
 6. A window asking you to install owo will appear, accept and download.
